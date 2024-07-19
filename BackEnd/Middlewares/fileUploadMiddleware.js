@@ -46,4 +46,4 @@ const fileUploaderMiddleware = (req, res, next) => {
     });
 };
 
-module.exports = fileUploaderMiddleware;
+module.exports = fileUploaderMiddleware;                
